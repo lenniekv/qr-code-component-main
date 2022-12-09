@@ -33,7 +33,7 @@ img {
     border-radius: 1.3rem;
     background-color: #fff;
     padding: 1rem;
-
+    box-shadow: 1px 1px 100px 2px hsla(0, 0%, 0%, 0.2);
 }
 
 .card img {
